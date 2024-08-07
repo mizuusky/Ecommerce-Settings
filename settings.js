@@ -5,7 +5,7 @@ function togglePassword(id) {
 }
 
 function cancelForm() {
-    // Reset form fields or navigate away
+    // Reset form fields / navigate 
     document.getElementById('passwordForm').reset();
 }
 
